@@ -3,7 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-html {
+html, body {
+    height: 100%;
     font-family: 'Montserrat', sans-serif;
 }
 .container {
@@ -80,7 +81,7 @@ button.navbar-toggler:focus .navbar-toggler-icon.custom-toggler {
 
 #home {
     width: 100%;
-    height: 100vh;
+    height: 100%;
     background-image: url(images/Bg_img_01.png);
     background-position: center;
     background-size: cover;
