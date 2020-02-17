@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 67 68" width="67" height="68">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #b88b58 } 
+	</style>
+	<g id="03 SERVICES (4 items) black">
+		<g id="02">
+			<path id="Star" class="shp0" d="M49.35 43.08L53.16 66.39L33.22 55.38L13.28 66.39L17.09 43.08L1.01 26.62L23.23 23.23L33.22 1.97L43.21 23.23L65.42 26.62L49.35 43.08ZM40.71 26.77L33.22 10.65L25.66 26.77L8.25 29.03L21.12 42.17L18.27 59.09L33.22 50.71L47.98 59.15L45.32 42.24L58.07 29.23L40.71 26.77Z" />
+		</g>
+	</g>
+</svg>
